@@ -1,0 +1,4 @@
+ECTextViewImp.cpp was provided code
+Uses the MVC design pattern to interact with user interface and into the model
+Uses the command design pattern to control from controller to model to impliemnt undo and redo commands
+Uses the subscriber design pattern to capture user keystrokes
